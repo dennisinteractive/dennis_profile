@@ -30,6 +30,7 @@
 
     "require": {
         "drupal/core": "^8.1.8",
+        "cweagans/composer-patches": "^1.5.0",
         "drupal/ctools": "3.0-alpha26",
         "drupal/config_update": "^1.1",
         "drupal/metatag": "^1.0",
