@@ -3,30 +3,17 @@
     "description": "Drupal Distro Profile",
     "type": "drupal-profile",
     "license": "GPL-2.0+",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.drupal.org/8"
-        }
-    ],
 
     "extra": {
         "patches": {
+            "drupal/core": {
+                "Allow installing new sites with exported configuration": "https://www.drupal.org/files/issues/1613424-2-71.patch"
+            }
         }
     },
 
-    "require-dev": {
-        "drush/drush": "^9.0",
-        "phpunit/phpunit": "~4.8",
-        "squizlabs/php_codesniffer": "2.*",
-        "drupal/devel": "^1.0"
-    },
-
     "require": {
-        "drupal/core": "^8.1.0",
+        "drupal/core": "^8.1.8",
         "drupal/ctools": "3.0-alpha26",
         "drupal/config_update": "^1.1",
         "drupal/metatag": "^1.0",
