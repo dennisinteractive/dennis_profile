@@ -18,6 +18,7 @@
         "drupal/config_update": "^1.1",
         "drupal/metatag": "^1.0",
         "drupal/token": "^1.0",
-        "drupal/pathauto": "^1.0"
+        "drupal/pathauto": "^1.0",
+        "dennisdigital/drupal_project_scripts": "dev-master"
     }
 }
