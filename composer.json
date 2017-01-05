@@ -20,5 +20,9 @@
         "drupal/token": "^1.0",
         "drupal/pathauto": "^1.0",
         "drupal/diff": "^1.0"
+    },
+
+    "require-dev": {
+        "drupal/config_inspector": "^1.0"
     }
 }
