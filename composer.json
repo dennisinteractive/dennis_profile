@@ -19,7 +19,7 @@
         "drupal/metatag": "^1.0",
         "drupal/token": "^1.0",
         "drupal/pathauto": "^1.0",
-        "drupal/google_tag": "1.x-dev#f1070d51ba4b37afd70b0d8efbf138099061f79b  "
+        "drupal/google_tag": "1.x-dev#f1070d51ba4b37afd70b0d8efbf138099061f79b",
         "drupal/diff": "^1.0"
     }
 }
