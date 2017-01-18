@@ -38,6 +38,7 @@ dependencies:
   - syslog
   - tour
   - automated_cron
+  - pathauto
 
 themes:
   - bartik
