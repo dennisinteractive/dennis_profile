@@ -8,6 +8,9 @@
         "patches": {
             "drupal/core": {
                 "Allow installing new sites with exported configuration": "https://www.drupal.org/files/issues/1613424-2-71.patch"
+            },
+            "drupal/google_tag": {
+                "Check empty file": "https://www.drupal.org/files/issues/brackets_in_the_head-2845243-2.patch"
             }
         }
     },
