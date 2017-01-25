@@ -36,7 +36,7 @@
         "drupal/metatag": "^1.0",
         "drupal/token": "^1.0",
         "drupal/pathauto": "^1.0",
-        "drupal/google_tag": "dev-dennis-8.x-1.x#66c4b40247dfcbc895cc544f62ca9a8be9fcc6f9",
+        "drupal/google_tag": "dev-dennis-8.x-1.x",
         "drupal/diff": "^1.0"
     }
 }
