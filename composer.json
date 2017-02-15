@@ -18,14 +18,6 @@
         }
     ],
 
-    "extra": {
-        "patches": {
-            "drupal/core": {
-                "Allow installing new sites with exported configuration": "https://www.drupal.org/files/issues/1613424-2-71.patch"
-            }
-        }
-    },
-
     "comment": "Vendor solotandem should be changed to drupal once this is fixed: https://www.drupal.org/node/2845873#comment-11881117",
 
     "require": {
