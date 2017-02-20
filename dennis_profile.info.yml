@@ -33,6 +33,7 @@ dependencies:
   - toolbar
   - field_ui
   - file
+  - file_entity
   - views
   - views_ui
   - syslog
