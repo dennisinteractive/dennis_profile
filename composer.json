@@ -15,6 +15,11 @@
             "type": "vcs",
             "url": "git@github.com:dennisinteractive/google_tag.git",
             "no-api": true
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:dennisinteractive/memcache.git",
+            "no-api": true
         }
     ],
 
@@ -29,6 +34,7 @@
         "drupal/token": "^1.0",
         "drupal/pathauto": "^1.0",
         "solotandem/google_tag": "dev-dennis-8.x-1.x#200e3ac4dc5b18be3c4497f11aaa64bb45fe96f8",
-        "drupal/diff": "^1.0"
+        "drupal/diff": "^1.0",
+        "drupal/memcache": "dev-dennis-8.x-2.x"
     }
 }
