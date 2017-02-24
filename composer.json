@@ -11,15 +11,11 @@
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
-        {
-            "type": "vcs",
-            "url": "git@github.com:dennisinteractive/google_tag.git",
-            "no-api": true
+        { 
+            "type": "composer", "url": "https://repo.packagist.com/dennisdigital/"
         },
         {
-            "type": "vcs",
-            "url": "git@github.com:dennisinteractive/memcache.git",
-            "no-api": true
+            "packagist.org": false
         }
     ],
 
