@@ -22,7 +22,7 @@
     "comment": "Vendor solotandem should be changed to drupal once this is fixed: https://www.drupal.org/node/2845873#comment-11881117",
 
     "require": {
-        "drupal/core": "^8.2.5",
+        "drupal/core": "~8.3.0",
         "drupal/ctools": "3.0-alpha26",
         "drupal/config_update": "^1.1",
         "drupal/file_entity": "2.x-dev#b8a36557d2529b56a3ad1cf2136b2add061179d4",
