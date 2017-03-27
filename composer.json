@@ -11,7 +11,7 @@
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
-        { 
+        {
             "type": "composer", "url": "https://repo.packagist.com/dennisdigital/"
         },
         {
@@ -32,6 +32,8 @@
         "drupal/role_delegation": "~1.0.0",
         "drupal/google_tag": "dev-dennis-8.x-1.x#200e3ac4dc5b18be3c4497f11aaa64bb45fe96f8",
         "drupal/diff": "~1.0.0",
-        "drupal/memcache": "dev-dennis-8.x-2.x#86475db83aa0f98ea6e7735967a359862bf3d8d4"
+        "drupal/memcache": "dev-dennis-8.x-2.x#86475db83aa0f98ea6e7735967a359862bf3d8d4",
+        "drupal/cdn": "^3.0",
+        "drupal/stage_file_proxy": "^1.0@alpha"
     }
 }
