@@ -29,7 +29,7 @@
         "drupal/role_delegation": "~1.0.0",
         "drupal/google_tag": "~2.0.1",
         "drupal/diff": "~1.0.0",
-        "drupal/memcache": "dev-dennis-8.x-2.x#86475db83aa0f98ea6e7735967a359862bf3d8d4",
+        "drupal/memcache": "dev-dennis-8.x-2.x#4908f1ccf56e75fd7e9785474837a98bc6490031",
         "drupal/cdn": "^3.0",
         "drupal/stage_file_proxy": "^1.0@alpha"
     }
