@@ -35,6 +35,5 @@ xmlrpc.php
 /scripts
 /themes
 
-
 # Ignore auto generated files
 .idea/
