@@ -19,5 +19,6 @@
         }
     ],
     "require": {
+        "drupal/memcache": "dennis-8.x-2.x-dev#7698c9b5d57d66eb10a67c9789a4aef5047bf442"
     }
 }
