@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "drupal/core": "~8.9.14",
+        "drupal/core": "^9.1",
         "drupal/ctools": "3.7",
         "drupal/config_update": "~1.7",
         "drupal/metatag": "~1.16",
