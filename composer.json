@@ -28,7 +28,6 @@
         "drupal/role_delegation": "~1.1",
         "drupal/google_tag": "dev-CMS-2193-update-d9",
         "drupal/diff": "~1.0.0",
-        "drupal/memcache": "dev-CMS-2193-update-d9",
         "drupal/cdn": "~3.5",
         "drupal/stage_file_proxy": "^1.1"
     }
